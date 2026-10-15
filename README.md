@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌾 KrishiMitra AI
 
 ### Multilingual AI-powered agricultural intelligence system delivered through WhatsApp
@@ -213,3 +214,6 @@ assets/
 # 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# KrishiMitra-AI
+>>>>>>> e526f10dc4a9771f237fd5b38930f4baf1968c20
